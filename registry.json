@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "plugins": [
+    {
+      "id": "commandcode-quota",
+      "name": "Command Code Quota",
+      "description": "Shows Command Code plan limits (5-hour, weekly, monthly credits) on the management panel's Quota page.",
+      "author": "jimbb",
+      "version": "0.2.0",
+      "repository": "https://github.com/jimbb/cpa-commandcode-quota",
+      "homepage": "https://github.com/jimbb/cpa-commandcode-quota",
+      "license": "MIT",
+      "tags": ["quota", "command-code"]
+    }
+  ]
+}

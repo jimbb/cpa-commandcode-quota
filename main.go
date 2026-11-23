@@ -8,7 +8,7 @@
 // the placeholder for them first (401, then fall through).
 // The API key is read from the Command Code CLI's own login (~/.commandcode/auth.json), so it follows
 // `cmd` re-logins.
-// Build: go build -buildmode=c-shared -o commandcode-quota-v$VERSION.so .
+// Build: see README.md and release.sh.
 package main
 
 /*
