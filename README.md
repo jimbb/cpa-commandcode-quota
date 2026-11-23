@@ -28,7 +28,8 @@ It is a quota-only plugin: it adds no models, executors or routes, and it never 
        - "https://raw.githubusercontent.com/jimbb/cpa-commandcode-quota/main/registry.json"
    ```
 
-   Then install **Command Code Quota** from the panel's **Plugins** page and enable it.
+   Then install **Command Code Quota** from the panel's **Plugins** page. It is enabled on install and
+   loads without another restart.
 
    Manual install instead: download `commandcode-quota_<version>_<os>_<arch>.zip` from
    [Releases](https://github.com/jimbb/cpa-commandcode-quota/releases), check it against `checksums.txt`, put
